@@ -1,0 +1,5 @@
+tmp/
+lib/
+test-result/
+eclipse/
+.classpath
